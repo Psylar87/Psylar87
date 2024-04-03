@@ -2,7 +2,11 @@ Hey Brandon here! 🤖
 =============================  
 New to the programming thing but super excited!
 -----------------------------------------------------------------------  
-* Interested in Swift, Lua and Python
+### Interests
+* Swift
+* Lua
+* Python
+* Neovim
 
 Feel free to share your wisdom, help me stay on course, or simply connect for a fun tech discussion!
 
