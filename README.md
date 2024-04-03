@@ -1,16 +1,13 @@
-### Hi there 👋
+Hey Brandon here! 🤖
+=============================  
+New to the programming thing but super excited!
+-----------------------------------------------------------------------  
+* Interested in Swift, Lua and Python
 
-<!--
-**Psylar87/Psylar87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Feel free to share your wisdom, help me stay on course, or simply connect for a fun tech discussion!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learning  
+<p align="left">
+    <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer" style="padding: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="padding: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+</p>
