@@ -2,7 +2,7 @@ Hey Brandon here! 🤖
 =============================  
 New to the programming thing but super excited!
 -----------------------------------------------------------------------  
-### Feel free to share your wisdom, help me stay on course, or simply connect for a fun tech discussion!
+Feel free to share your wisdom with me!
 
 ### Learning  
 <p align="left">
