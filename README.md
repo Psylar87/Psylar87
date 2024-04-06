@@ -12,3 +12,8 @@ Feel free to share your wisdom with me!
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="padding: 5px;"><img src="https://cdn.simpleicons.org/git" width="36" height="36" alt="Git" /></a>
     <a href="https://neovim.io/" target="blank" rel="noreferrer" style="padding: 5px;"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/258326081-b113a23c-5c04-45aa-819c-bd04e8ac2a37.png" width="30" height="39" alt="Neovim" /></a>
 </p>
+
+### Skills  
+<p align="left">
+    <a href="https://www.w3schools.com/html/" target="blank" rel="noreferrer" style="padding: 5px;"><img src="https://cdn.simpleicons.org/html5" width="36" hight="36" alt="HTML" /></a>
+</p>
