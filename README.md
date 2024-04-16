@@ -6,7 +6,7 @@ Feel free to share your wisdom with me!
 
 ### Learning  
 <p align="left">
-    <a href="https://https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferror" style="padding: 5px;"><img src="https://cdn.simpleicons.org/gnubash/black/white" width="36" height="36" alt="Bash" /></a>
+    <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferror" style="padding: 5px;"><img src="https://cdn.simpleicons.org/gnubash/white/black" width="36" height="36" alt="Bash" /></a>
     <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer" style="padding: 5px;"><img src="https://cdn.simpleicons.org/swift" width="36" height="36" alt="Swift" /></a>
     <a href="https://www.lua.org" target="_blank" re="nonreferrer" styyle="padding: 5px:"><img src="https://cdn.simpleicons.org/lua" width="36" height="36" alt="Lua" /></a>
     <a href="https://www.python.org/" target="blank" rel="nonreferrer" style="padding: 5px;"><img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="36" height="36" alt="Python" /></a>
