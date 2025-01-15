@@ -19,3 +19,6 @@ Feel free to share your wisdom with me!
 <p align="left">
     <a href="https://www.w3schools.com/html/" target="blank" rel="noreferrer" style="padding: 5px;"><img src="https://cdn.simpleicons.org/html5" width="36" hight="36" alt="HTML" /></a>
 </p>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Psylar87)](https://github.com/anuraghazra/github-readme-stats)
