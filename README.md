@@ -2,7 +2,9 @@ Hey Brandon here! 🤖
 =============================  
 New to the programming thing but super excited!
 -----------------------------------------------------------------------  
-Feel free to share your wisdom with me!
+- 🌱 I'm currently learning **Go (Golang)**
+
+- 📝 I regularly write articles on **[https://psylar87.github.io](https://psylar87.github.io)**
 
 ### Learning  
 <p align="left">
