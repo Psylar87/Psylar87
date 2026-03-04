@@ -2,7 +2,6 @@ Hey Brandon here! 🤖
 =============================  
 New to the programming thing but super excited!
 -----------------------------------------------------------------------  
-- 📝 I regularly write articles on **[https://psylar87.github.io](https://psylar87.github.io)**
 
 ### Learning  
 <p align="left">
