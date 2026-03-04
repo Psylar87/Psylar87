@@ -4,8 +4,6 @@ New to the programming thing but super excited!
 -----------------------------------------------------------------------  
 - 🌱 I'm currently learning **Go (Golang)**
 
-- 📝 I regularly write articles on **[https://psylar87.github.io](https://psylar87.github.io)**
-
 ### Learning  
 <p align="left">
     <a href="https://go.dev/" target="blank" rel="noreferrer" style="padding: 5px;"><img src="https://cdn.simpleicons.org/go" width="46" height="46" alt="Go" /></a>
