@@ -9,5 +9,3 @@ Feel free to share your wisdom with me!
     <a href="https://go.dev/" target="blank" rel="noreferrer" style="padding: 5px;"><img src="https://cdn.simpleicons.org/go" width="46" height="46" alt="Go" /></a>
     <a href="https://www.lua.org" target="_blank" re="nonreferrer" style="padding: 5px;"><img src="https://cdn.simpleicons.org/lua" width="36" height="36" alt="Lua" /></a>
     <a href="https://www.python.org/" target="blank" rel="nonreferrer" style="padding: 5px;"><img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="36" height="36" alt="Python" /></a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Psylar87&theme=catppuccin_mocha)
